@@ -1,1 +1,1 @@
-# proc_ling_natural
+### Projeto de Disciplina de "Processamento de Linguagem Natural com Python"
